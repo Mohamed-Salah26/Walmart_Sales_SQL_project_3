@@ -1,1 +1,0 @@
-# Walmart_Sales_SQL_project_3
